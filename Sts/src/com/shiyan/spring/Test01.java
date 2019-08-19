@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.shiyan.spring.Person;
 
 public class Test01 {
-
+//123
 	public static void main(String[] args) {
 		/*
 		 * 	IOC控制反转
