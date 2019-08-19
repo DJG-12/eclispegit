@@ -4,7 +4,7 @@ public class Person {
 	private String pname;
 	private int page;
 	private String psex;
-	//sheh
+	//kud
 	
 	
 	public Person() {
