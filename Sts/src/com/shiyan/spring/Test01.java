@@ -8,7 +8,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.shiyan.spring.Person;
-//更新
+//aaaaa
 public class Test01 {
 //123
 	public static void main(String[] args) {
